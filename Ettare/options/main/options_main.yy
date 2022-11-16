@@ -1,5 +1,8 @@
 {
-  "option_gameguid": "7b0647ba-10e3-4bf3-b957-e49e6bb25c25",
+  "resourceType": "GMMainOptions",
+  "resourceVersion": "1.4",
+  "name": "Main",
+  "option_gameguid": "85767f10-812c-4e97-9936-a96aa57f6a59",
   "option_gameid": "0",
   "option_game_speed": 60,
   "option_mips_for_3d_textures": false,
@@ -14,8 +17,4 @@
   "option_template_image": "${base_options_dir}/main/template_image.png",
   "option_template_icon": "${base_options_dir}/main/template_icon.png",
   "option_template_description": null,
-  "resourceVersion": "1.4",
-  "name": "Main",
-  "tags": [],
-  "resourceType": "GMMainOptions",
 }
