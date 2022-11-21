@@ -13,6 +13,7 @@
     {"id":{"name":"palangcolour","path":"sprites/palangcolour/palangcolour.yy",},"order":3,},
     {"id":{"name":"ObjectTextEnter","path":"objects/ObjectTextEnter/ObjectTextEnter.yy",},"order":11,},
     {"id":{"name":"pohon4","path":"sprites/pohon4/pohon4.yy",},"order":8,},
+    {"id":{"name":"Welcome","path":"rooms/Welcome/Welcome.yy",},"order":2,},
     {"id":{"name":"Color","path":"rooms/Color/Color.yy",},"order":1,},
     {"id":{"name":"character_01","path":"sprites/character_01/character_01.yy",},"order":14,},
     {"id":{"name":"ObjectGedung2Full","path":"objects/ObjectGedung2Full/ObjectGedung2Full.yy",},"order":9,},
@@ -46,6 +47,7 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"World","path":"rooms/World/World.yy",},},
     {"roomId":{"name":"Color","path":"rooms/Color/Color.yy",},},
+    {"roomId":{"name":"Welcome","path":"rooms/Welcome/Welcome.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},
