@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Objectbackbutton",
+  "name": "Objectmonochromatic",
   "spriteId": {
-    "name": "backbutton",
-    "path": "sprites/backbutton/backbutton.yy",
+    "name": "monochromatic",
+    "path": "sprites/monochromatic/monochromatic.yy",
   },
   "solid": true,
   "visible": false,
@@ -28,7 +28,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "HowToPlayObject",
-    "path": "folders/Objects/HowToPlayObject.yy",
+    "name": "HarmonyColorObject",
+    "path": "folders/Objects/HarmonyColorObject.yy",
   },
 }

@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Objectbackbutton",
+  "name": "Objectsoal",
   "spriteId": {
-    "name": "backbutton",
-    "path": "sprites/backbutton/backbutton.yy",
+    "name": "soal",
+    "path": "sprites/soal/soal.yy",
   },
   "solid": true,
   "visible": false,
@@ -28,7 +28,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "HowToPlayObject",
-    "path": "folders/Objects/HowToPlayObject.yy",
+    "name": "HarmonyColorObject",
+    "path": "folders/Objects/HarmonyColorObject.yy",
   },
 }
