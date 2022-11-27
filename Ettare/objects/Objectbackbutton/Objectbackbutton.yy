@@ -1,13 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Objecthowtoplay",
-  "spriteId": {
-    "name": "howtoplay",
-    "path": "sprites/howtoplay/howtoplay.yy",
-  },
-  "solid": true,
-  "visible": false,
+  "name": "Objectbackbutton",
+  "spriteId": null,
+  "solid": false,
+  "visible": true,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
@@ -28,7 +25,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "SplashObject",
-    "path": "folders/Objects/SplashObject.yy",
+    "name": "HowToPlayObject",
+    "path": "folders/Objects/HowToPlayObject.yy",
   },
 }

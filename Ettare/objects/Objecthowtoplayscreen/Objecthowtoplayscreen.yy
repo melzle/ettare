@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Objecthowtoplay",
+  "name": "Objecthowtoplayscreen",
   "spriteId": {
-    "name": "howtoplay",
-    "path": "sprites/howtoplay/howtoplay.yy",
+    "name": "howtoplayscreen",
+    "path": "sprites/howtoplayscreen/howtoplayscreen.yy",
   },
   "solid": true,
   "visible": false,
@@ -28,7 +28,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "SplashObject",
-    "path": "folders/Objects/SplashObject.yy",
+    "name": "HowToPlayObject",
+    "path": "folders/Objects/HowToPlayObject.yy",
   },
 }
